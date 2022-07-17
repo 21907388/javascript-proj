@@ -16,7 +16,7 @@ console.log(num)
 //Absolute value
 console.log(Math.abs(-10)) //10
 //Square root
-console.log(Math.sqrt(100)) // 10
+console.log(Math.sqrt(1000)) // 10
 console.log(Math.sqrt(2)) //1.4142135623730951
 // Power
 console.log(Math.pow(3, 2)) // 9
